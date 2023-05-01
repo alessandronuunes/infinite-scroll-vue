@@ -1,4 +1,4 @@
-# Vue Infinite Scroller
+# Vue Infinite Scroller - Observer scroll top and scroll bottom
 
 This template should help get you started developing with Vue 3 in Vite.
 
